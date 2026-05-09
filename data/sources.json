@@ -1,0 +1,96 @@
+{
+  "feeds": [
+    {
+      "name": "The Hacker News",
+      "url": "https://feeds.feedburner.com/TheHackersNews",
+      "category": "General Cybersecurity",
+      "priority": "high",
+      "enabled": true
+    },
+    {
+      "name": "CISA Alerts",
+      "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+      "category": "Government Advisories",
+      "priority": "critical",
+      "enabled": true
+    },
+    {
+      "name": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/feed/",
+      "category": "Investigative Security",
+      "priority": "high",
+      "enabled": true
+    },
+    {
+      "name": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/feed/",
+      "category": "Malware & Vulnerabilities",
+      "priority": "high",
+      "enabled": true
+    },
+    {
+      "name": "Dark Reading",
+      "url": "https://www.darkreading.com/rss.xml",
+      "category": "Enterprise Security",
+      "priority": "medium",
+      "enabled": true
+    },
+    {
+      "name": "SecurityWeek",
+      "url": "https://feeds.feedburner.com/securityweek",
+      "category": "Industry News",
+      "priority": "medium",
+      "enabled": true
+    },
+    {
+      "name": "SANS ISC",
+      "url": "https://isc.sans.edu/rssfeed.xml",
+      "category": "Threat Analysis",
+      "priority": "high",
+      "enabled": true
+    },
+    {
+      "name": "Naked Security (Sophos)",
+      "url": "https://nakedsecurity.sophos.com/feed/",
+      "category": "Security Research",
+      "priority": "medium",
+      "enabled": true
+    },
+    {
+      "name": "Schneier on Security",
+      "url": "https://www.schneier.com/feed/atom/",
+      "category": "Security Analysis",
+      "priority": "medium",
+      "enabled": true
+    },
+    {
+      "name": "US-CERT Current Activity",
+      "url": "https://www.cisa.gov/uscert/ncas/current-activity.xml",
+      "category": "Government Alerts",
+      "priority": "critical",
+      "enabled": true
+    },
+    {
+      "name": "Packet Storm Security",
+      "url": "https://rss.packetstormsecurity.com/",
+      "category": "Exploits & Tools",
+      "priority": "medium",
+      "enabled": true
+    },
+    {
+      "name": "Threatpost",
+      "url": "https://threatpost.com/feed/",
+      "category": "Threat Intelligence",
+      "priority": "high",
+      "enabled": true
+    }
+  ],
+  "settings": {
+    "max_articles_per_source": 5,
+    "max_total_articles": 40,
+    "include_summary": true,
+    "include_links": true,
+    "date_format": "%Y-%m-%d",
+    "timezone": "UTC"
+  }
+}

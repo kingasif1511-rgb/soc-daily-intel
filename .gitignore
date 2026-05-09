@@ -1,0 +1,32 @@
+# SOC Daily Intel — Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs (keep fetch.log tracked for debugging)
+*.log
+!scripts/fetch.log
+
+# Temp files
+*.tmp
+*.bak
