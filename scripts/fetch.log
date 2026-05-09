@@ -1,0 +1,41 @@
+2026-05-09 06:35:22,662 [INFO] ============================================================
+2026-05-09 06:35:22,662 [INFO] 🛡️  SOC Daily Intelligence Feed — Starting Update
+2026-05-09 06:35:22,663 [INFO] ============================================================
+2026-05-09 06:35:22,663 [INFO] 📅 Report date: 2026-05-09
+2026-05-09 06:35:22,663 [INFO] Loaded 12 feed sources
+2026-05-09 06:35:22,663 [INFO] Fetching: The Hacker News (https://feeds.feedburner.com/TheHackersNews)
+2026-05-09 06:35:22,922 [INFO]   ✅ The Hacker News: 13 articles found
+2026-05-09 06:35:23,923 [INFO] Fetching: CISA Alerts (https://www.cisa.gov/cybersecurity-advisories/all.xml)
+2026-05-09 06:35:24,211 [INFO]   ✅ CISA Alerts: 3 articles found
+2026-05-09 06:35:25,212 [INFO] Fetching: Krebs on Security (https://krebsonsecurity.com/feed/)
+2026-05-09 06:35:25,374 [INFO]   ✅ Krebs on Security: 1 articles found
+2026-05-09 06:35:26,375 [INFO] Fetching: BleepingComputer (https://www.bleepingcomputer.com/feed/)
+2026-05-09 06:35:26,511 [INFO]   ✅ BleepingComputer: 15 articles found
+2026-05-09 06:35:27,512 [INFO] Fetching: Dark Reading (https://www.darkreading.com/rss.xml)
+2026-05-09 06:35:28,347 [INFO]   ✅ Dark Reading: 5 articles found
+2026-05-09 06:35:29,348 [INFO] Fetching: SecurityWeek (https://feeds.feedburner.com/securityweek)
+2026-05-09 06:35:29,722 [INFO]   ✅ SecurityWeek: 10 articles found
+2026-05-09 06:35:30,723 [INFO] Fetching: SANS ISC (https://isc.sans.edu/rssfeed.xml)
+2026-05-09 06:35:30,890 [INFO]   ✅ SANS ISC: 2 articles found
+2026-05-09 06:35:31,891 [INFO] Fetching: Naked Security (Sophos) (https://nakedsecurity.sophos.com/feed/)
+2026-05-09 06:35:32,788 [WARNING] Feed parse error for Naked Security (Sophos): <unknown>:2:5297: not well-formed (invalid token)
+2026-05-09 06:35:33,788 [INFO] Fetching: Schneier on Security (https://www.schneier.com/feed/atom/)
+2026-05-09 06:35:33,910 [INFO]   ✅ Schneier on Security: 3 articles found
+2026-05-09 06:35:34,911 [INFO] Fetching: US-CERT Current Activity (https://www.cisa.gov/uscert/ncas/current-activity.xml)
+2026-05-09 06:35:35,061 [INFO]   ✅ US-CERT Current Activity: 2 articles found
+2026-05-09 06:35:36,062 [INFO] Fetching: Packet Storm Security (https://rss.packetstormsecurity.com/)
+2026-05-09 06:35:36,272 [WARNING]   ❌ Connection error for Packet Storm Security
+2026-05-09 06:35:37,272 [INFO] Fetching: Threatpost (https://threatpost.com/feed/)
+2026-05-09 06:35:38,362 [INFO]   ✅ Threatpost: 0 articles found
+2026-05-09 06:35:39,363 [INFO] 
+📊 Fetched 31 articles from 9/12 sources
+2026-05-09 06:35:39,363 [INFO] Deduplication: 31 → 29 articles
+2026-05-09 06:35:39,363 [INFO] 📝 Generating daily report...
+2026-05-09 06:35:39,364 [INFO] Report saved: /home/runner/work/soc-daily-intel/soc-daily-intel/reports/2026/05/2026-05-09.md
+2026-05-09 06:35:39,364 [INFO] Updated LATEST.md
+2026-05-09 06:35:39,365 [INFO] Updated stats: 1 total reports, 29 total articles
+2026-05-09 06:35:39,365 [INFO] 
+✅ Done! Report generated in 16.7s
+2026-05-09 06:35:39,365 [INFO] 📄 Report: /home/runner/work/soc-daily-intel/soc-daily-intel/reports/2026/05/2026-05-09.md
+2026-05-09 06:35:39,365 [INFO] 📊 Articles: 29 | Sources: 9
+2026-05-09 06:35:39,365 [INFO] ============================================================

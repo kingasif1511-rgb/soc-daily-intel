@@ -1,16 +1,9 @@
 # 🛡️ Latest SOC Intelligence Report
 
-📅 **Date**: Awaiting first run...
+📅 **Date**: 2026-05-09
 
-> This file will be automatically updated after the first GitHub Actions run.
-
-## 🚀 Getting Started
-
-1. Push this repository to GitHub
-2. Enable GitHub Actions in your repo settings
-3. Set workflow permissions to **Read and write**
-4. Wait for the daily cron (06:00 UTC) or trigger manually from the **Actions** tab
+👉 **[View Today's Full Report](reports/2026/05/2026-05-09.md)**
 
 ---
 
-*Keeping your GitHub green while staying informed on cybersecurity threats* 🟢
+*This file is automatically updated daily. Check the [reports](reports/) directory for the full archive.*
