@@ -1,8 +1,8 @@
 # 🛡️ Latest SOC Intelligence Report
 
-📅 **Date**: 2026-06-12
+📅 **Date**: 2026-06-13
 
-👉 **[View Today's Full Report](reports/2026/06/2026-06-12.md)**
+👉 **[View Today's Full Report](reports/2026/06/2026-06-13.md)**
 
 ---
 
