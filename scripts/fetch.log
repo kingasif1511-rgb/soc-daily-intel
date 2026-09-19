@@ -5451,3 +5451,44 @@
 2026-09-18 10:35:44,904 [INFO] 📄 Report: /home/runner/work/soc-daily-intel/soc-daily-intel/reports/2026/09/2026-09-18.md
 2026-09-18 10:35:44,904 [INFO] 📊 Articles: 35 | Sources: 9
 2026-09-18 10:35:44,904 [INFO] ============================================================
+2026-09-19 10:19:42,138 [INFO] ============================================================
+2026-09-19 10:19:42,138 [INFO] 🛡️  SOC Daily Intelligence Feed — Starting Update
+2026-09-19 10:19:42,138 [INFO] ============================================================
+2026-09-19 10:19:42,138 [INFO] 📅 Report date: 2026-09-19
+2026-09-19 10:19:42,139 [INFO] Loaded 12 feed sources
+2026-09-19 10:19:42,139 [INFO] Fetching: The Hacker News (https://feeds.feedburner.com/TheHackersNews)
+2026-09-19 10:19:42,474 [INFO]   ✅ The Hacker News: 20 articles found
+2026-09-19 10:19:43,476 [INFO] Fetching: CISA Alerts (https://www.cisa.gov/cybersecurity-advisories/all.xml)
+2026-09-19 10:19:43,963 [INFO]   ✅ CISA Alerts: 10 articles found
+2026-09-19 10:19:44,964 [INFO] Fetching: Krebs on Security (https://krebsonsecurity.com/feed/)
+2026-09-19 10:19:45,274 [INFO]   ✅ Krebs on Security: 0 articles found
+2026-09-19 10:19:46,275 [INFO] Fetching: BleepingComputer (https://www.bleepingcomputer.com/feed/)
+2026-09-19 10:19:46,393 [INFO]   ✅ BleepingComputer: 14 articles found
+2026-09-19 10:19:47,395 [INFO] Fetching: Dark Reading (https://www.darkreading.com/rss.xml)
+2026-09-19 10:19:47,983 [INFO]   ✅ Dark Reading: 8 articles found
+2026-09-19 10:19:48,984 [INFO] Fetching: SecurityWeek (https://feeds.feedburner.com/securityweek)
+2026-09-19 10:19:49,530 [INFO]   ✅ SecurityWeek: 10 articles found
+2026-09-19 10:19:50,531 [INFO] Fetching: SANS ISC (https://isc.sans.edu/rssfeed.xml)
+2026-09-19 10:19:50,712 [INFO]   ✅ SANS ISC: 3 articles found
+2026-09-19 10:19:51,713 [INFO] Fetching: Naked Security (Sophos) (https://nakedsecurity.sophos.com/feed/)
+2026-09-19 10:19:52,652 [WARNING] Feed parse error for Naked Security (Sophos): <unknown>:2:2983: not well-formed (invalid token)
+2026-09-19 10:19:53,652 [INFO] Fetching: Schneier on Security (https://www.schneier.com/feed/atom/)
+2026-09-19 10:19:53,870 [INFO]   ✅ Schneier on Security: 3 articles found
+2026-09-19 10:19:54,872 [INFO] Fetching: US-CERT Current Activity (https://www.cisa.gov/uscert/ncas/current-activity.xml)
+2026-09-19 10:19:55,060 [INFO]   ✅ US-CERT Current Activity: 2 articles found
+2026-09-19 10:19:56,062 [INFO] Fetching: Packet Storm Security (https://rss.packetstormsecurity.com/)
+2026-09-19 10:19:56,224 [WARNING]   ❌ Connection error for Packet Storm Security
+2026-09-19 10:19:57,224 [INFO] Fetching: Threatpost (https://threatpost.com/feed/)
+2026-09-19 10:19:58,117 [INFO]   ✅ Threatpost: 0 articles found
+2026-09-19 10:19:59,118 [INFO] 
+📊 Fetched 33 articles from 8/12 sources
+2026-09-19 10:19:59,118 [INFO] Deduplication: 33 → 33 articles
+2026-09-19 10:19:59,118 [INFO] 📝 Generating daily report...
+2026-09-19 10:19:59,120 [INFO] Report saved: /home/runner/work/soc-daily-intel/soc-daily-intel/reports/2026/09/2026-09-19.md
+2026-09-19 10:19:59,120 [INFO] Updated LATEST.md
+2026-09-19 10:19:59,121 [INFO] Updated stats: 134 total reports, 3661 total articles
+2026-09-19 10:19:59,121 [INFO] 
+✅ Done! Report generated in 17.0s
+2026-09-19 10:19:59,121 [INFO] 📄 Report: /home/runner/work/soc-daily-intel/soc-daily-intel/reports/2026/09/2026-09-19.md
+2026-09-19 10:19:59,121 [INFO] 📊 Articles: 33 | Sources: 8
+2026-09-19 10:19:59,121 [INFO] ============================================================
