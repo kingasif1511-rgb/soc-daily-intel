@@ -1,8 +1,8 @@
 {
   "first_report": "2026-05-09",
-  "last_report": "2026-10-04",
-  "total_reports": 149,
-  "total_articles_processed": 4087,
+  "last_report": "2026-10-05",
+  "total_reports": 150,
+  "total_articles_processed": 4110,
   "daily_log": [
     {
       "date": "2026-05-09",
@@ -747,6 +747,11 @@
     {
       "date": "2026-10-04",
       "articles": 25,
+      "sources": 8
+    },
+    {
+      "date": "2026-10-05",
+      "articles": 23,
       "sources": 8
     }
   ]
